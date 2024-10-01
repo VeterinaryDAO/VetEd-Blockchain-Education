@@ -1,4 +1,4 @@
-# VetEd-Blockchain-Education
+# Cardano VetEd 🎓 - Empowering Veterinarians through Blockchain Education and Integration
 
 ## Overview
 **VetEd-Blockchain-Education** is an open-source repository created by VeterinaryDAO. This project aims to provide educational content, webinar recordings, and resources for veterinarians to learn about blockchain technology, Cardano, and how these innovations can be applied within the veterinary field. It is part of the broader VeterinaryDAO initiative to empower veterinarians through decentralized technologies.
